@@ -31,7 +31,6 @@ public class Numbers {
 
     // average()`, zwraca średnią arytmetyczną liczb
     public double average() {
-        // Zwróć uwagę na (double) - wymuszamy wynik z ułamkiem!
         return sum() / 3;
     }
 
